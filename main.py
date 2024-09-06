@@ -90,7 +90,7 @@ PNG_BTN = [
      ],
 ]
 
-HELP_READ = "**ᴜsᴀɢᴇ ☟︎︎︎**\n**➻ ᴜsᴇ** `/chatbot on` **ᴛᴏ ᴇɴᴀʙʟᴇ ᴄʜᴀᴛʙᴏᴛ.**\n**➻ ᴜsᴇ** `/chatbot off` **ᴛᴏ ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴄʜᴀᴛʙᴏᴛ.**\n**๏ ɴᴏᴛᴇ ➻ ʙᴏᴛʜ ᴛʜᴇ ᴀʙᴏᴠᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ ᴄʜᴀᴛ-ʙᴏᴛ ᴏɴ/ᴏғғ ᴡᴏʀᴋ ɪɴ ɢʀᴏᴜᴘ ᴏɴʟʏ!!**\n\n**➻ ᴜsᴇ** `/ping` **ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n||©️ @BRANDRD_BOT||"
+HELP_READ = "**ᴜsᴀɢᴇ ☟︎︎︎**\n**➻ ᴜsᴇ** `/chatbot on` **ᴛᴏ ᴇɴᴀʙʟᴇ ᴄʜᴀᴛʙᴏᴛ.**\n**➻ ᴜsᴇ** `/chatbot off` **ᴛᴏ ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴄʜᴀᴛʙᴏᴛ.**\n**๏ ɴᴏᴛᴇ ➻ ʙᴏᴛʜ ᴛʜᴇ ᴀʙᴏᴠᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ ᴄʜᴀᴛ-ʙᴏᴛ ᴏɴ/ᴏғғ ᴡᴏʀᴋ ɪɴ ɢʀᴏᴜᴘ ᴏɴʟʏ!!**\n\n**➻ ᴜsᴇ** `/ping` **ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ᴏғ ᴛʜᴇ ʙᴏᴛ.**\n||©️ @Viru_Writes||"
 HELP_BACK = [
      
     [
@@ -131,13 +131,13 @@ async def restart(client, m: Message):
         accha = await m.reply_text(
                         text = f"{g}")
         await asyncio.sleep(1)
-        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @BRANDED_WORLD , @BRANDRD_BOT , @BRANDED_PAID_CC 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @BRANDEDKING8 ❤️")
+        await accha.edit("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
         await asyncio.sleep(0.5)
-        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @BRANDED_WORLD , @BRANDRD_BOT , @BRANDED_PAID_CC 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @BRANDEDKING8 ❤️")
+        await accha.edit("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
         await asyncio.sleep(0.5)
-        await accha.edit("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @BRANDED_WORLD , @BRANDRD_BOT , @BRANDED_PAID_CC 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @BRANDEDKING8 ❤️")
+        await accha.edit("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
         await asyncio.sleep(0.5)
-        await accha.delete("🦋𝗡𝗢𝗪 𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘 👉 @BRANDED_WORLD , @BRANDRD_BOT , @BRANDED_PAID_CC 𝗔𝗡𝗗 𝗠𝗔𝗞𝗘 𝗬𝗢𝗨𝗥 𝗚𝗜𝗥𝗟𝗙𝗥𝗜𝗡𝗗 🥀 𝗜𝗙 𝗬𝗢 𝗛𝗔𝗩𝗘 𝗔 𝗚𝗜𝗥𝗟𝗙𝗜𝗘𝗡𝗗  😘 𝗧𝗛𝗘𝗡 𝗬𝗢𝗨 𝗪𝗜𝗟𝗟 𝗚𝗜𝗙𝗧 🙊 𝗧𝗢 𝗠𝗬 𝗢𝗪𝗡𝗘𝗥 @BRANDEDKING8 ❤️")
+        await accha.delete("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
         umm = await m.reply_sticker(
                   sticker = STKR,
         )
@@ -190,7 +190,7 @@ async def ping(client, message: Message):
         ms = (end-start).microseconds / 1000
         await message.reply_photo(
                              photo=START_IMG,
-                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME})** ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [BRANDED KING](https://t.me/Rajasahab3891)||**",
+                             caption=f"ʜᴇʏ ʙᴀʙʏ!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME})** ɪꜱ ᴀʟɪᴠᴇ 🥀 ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ꜰɪɴᴇ ᴡɪᴛʜ ᴘᴏɴɢ ᴏꜰ \n➥ `{ms}` ms\n\n**ᴍᴀᴅᴇ ᴡɪᴛʜ ❣️ ʙʏ || [ﮩ٨ـﮩﮩ٨ـ𝐊𝐈𝐍𝐆 ⤅𝐕𝐈𝐑𝐔ـﮩﮩ٨ـ](https://t.me/Rajasahab3891)||**",
                              reply_markup=InlineKeyboardMarkup(PNG_BTN),
        )
 
