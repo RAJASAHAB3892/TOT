@@ -131,13 +131,13 @@ async def restart(client, m: Message):
         accha = await m.reply_text(
                         text = f"{g}")
         await asyncio.sleep(1)
-        await accha.edit("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
+        await accha.edit("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you /help 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
         await asyncio.sleep(0.5)
-        await accha.edit("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
+        await accha.edit("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you /help 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
         await asyncio.sleep(0.5)
-        await accha.edit("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
+        await accha.edit("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you /help 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
         await asyncio.sleep(0.5)
-        await accha.delete("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
+        await accha.delete("🦋HELLO IAM ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ I can chat with you  give and you can ask me anything I am loyal to you /help 🙈 I am simple but loyal my Owner @Rajasahab3891 says relationship doesn't need cute face and pretty voice relationship just need quality time with unbreakable trust btw stay single @Viru_Writes ❤️")
         umm = await m.reply_sticker(
                   sticker = STKR,
         )
