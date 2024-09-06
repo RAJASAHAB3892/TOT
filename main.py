@@ -11,16 +11,16 @@ import asyncio
 import time
 from datetime import datetime
 from pyrogram import enums
-API_ID = os.environ.get("API_ID", None) 
-API_HASH = os.environ.get("API_HASH", None) 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
-MONGO_URL = os.environ.get("MONGO_URL", None)
-BOT_USERNAME = os.environ.get("BOT_USERNAME","") 
-UPDATE_CHNL = os.environ.get("UPDATE_CHNL","BRANDRD_BOT")
-OWNER_USERNAME = os.environ.get("OWNER_USERNAME","BRANDEDKING82")
-SUPPORT_GRP = os.environ.get("SUPPORT_GRP","BRANDED_WORLD")
+API_ID = os.environ.get("API_ID", "28196711") 
+API_HASH = os.environ.get("API_HASH", "a8a23bffb12aae7a4c72fa2b4cd538a1") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7546513690:AAEaZ66VHJh6a93VuRx-BHdxinHYl87uvOM") 
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://PANDABABY:PANDABABY@pandababy.rft5a3z.mongodb.net/?retryWrites=true&w=majority&appName=Pandababy")
+BOT_USERNAME = os.environ.get("BOT_USERNAME","missakkubot") 
+UPDATE_CHNL = os.environ.get("UPDATE_CHNL","PandaLovebaby")
+OWNER_USERNAME = os.environ.get("OWNER_USERNAME","Rajasahab3891")
+SUPPORT_GRP = os.environ.get("SUPPORT_GRP","strangerchattingclub")
 BOT_NAME = os.environ.get("BOT_NAME","CHATBOT")
-START_IMG = os.environ.get("START_IMG","")
+START_IMG = os.environ.get("START_IMG","https://telegra.ph/file/b598f0e3fe181ceac7711.jpg")
 
 STKR = os.environ.get("STKR")
 
